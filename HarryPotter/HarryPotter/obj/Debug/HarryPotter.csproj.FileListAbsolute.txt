@@ -1,0 +1,8 @@
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe.config
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\bin\Debug\HarryPotter.exe
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\bin\Debug\HarryPotter.pdb
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.AssemblyReference.cache
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.csproj.CoreCompileInputs.cache
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.exe
+C:\Users\Szilárd\OneDrive - Óbudai egyetem\Moodle\OE moodle\SzTF2\VS 2022 projects\HarryPotter\HarryPotter\obj\Debug\HarryPotter.pdb

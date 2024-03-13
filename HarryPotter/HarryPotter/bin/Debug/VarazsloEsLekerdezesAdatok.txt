@@ -1,0 +1,5 @@
+Varazslok szama: 10
+Min stat ertek: 0
+Max stat ertek: 11
+Lekerdezes tulajdonsaga: Bátorság
+Lekerdezes erteke: 2
